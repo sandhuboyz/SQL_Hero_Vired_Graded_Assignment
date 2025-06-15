@@ -1,4 +1,4 @@
-Here’s a comprehensive `README.md` guide for your **Hero Vired Graded SQL Assignment**. You can copy this into your repository or submission folder:
+Here’s a comprehensive `README.md` guide for our **Hero Vired Graded SQL Assignment**. You can copy this into your repository or submission folder:
 
 ---
 
